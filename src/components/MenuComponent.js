@@ -22,8 +22,6 @@ const Menu = (props) =>{
                 <RenderMenuItem dish={dish}/>
             </div>
         );
-
-
     });
 
     return (
